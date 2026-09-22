@@ -1,0 +1,6 @@
+{
+  "name": "Voice Triage & Clinical Intelligence",
+  "description": "Voice-first multilingual healthcare triage and clinical decision-support platform for rural and underserved communities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
